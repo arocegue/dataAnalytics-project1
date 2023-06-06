@@ -1,1 +1,33 @@
-# dataAnalytics-project1
+Why did we choose this topic?
+
+Social media has been, and will most likely continue to be, a polarizing topic whether it has an overall positive or negative affect on society as a whole. (School District Lawsuits, Surgeon General Report)
+While there are benefits to its usage (connectivity, creativity, support structures, learning and development, career, etc.) we wanted to also explore the potentially negative affects it can have on mental health.
+This Kaggle dataset, authored by SouvikAhmed071, surveyed 474 individuals, of which 471 use social media, and it’s from that data that we’re trying to answer the following questions:
+
+- Are there certain age groups that are affected more than others?
+- Does it negatively affect all genders equally? 
+- Does occupation matter?
+- Is social media usage a distraction from other important tasks? 
+- Does its use correlate to sleep deprivation? 
+- Does its use create a sense of anxiousness or depression? 
+- Does a specific social media platform or collection of platforms lead to more issues than others?
+
+
+Final Analysis
+
+Does Age, Occupation, and Gender play a role in how easily one is distracted by social media?
+
+There is a weak negative correlation between age and distraction rating which suggests that as age increases, the likelihood of being distracted decreases.
+A weak correlation exists between occupation and the distraction level which suggests that depending on the nature of occupation, the level of distraction varies. In this case, University Students tend to experience higher levels of distraction
+There are no significant differences between different genders in terms of how easily they are distracted by social media. The correlation that exists between the two factors is very weak since it's close to 0. The data suggests that gender is not a significant factor that contributes to how easily people are distracted by social media.
+
+Does time spent on social media lead to sleep deprivation?
+
+In short, if you spend enough time on the platforms, yes it does. The data shows a likelihood to be sleep deprived if you spend multiple hours a day on social media. 
+All surveyed (genders, male, female, and other) are similarly affected by the social media in term of sleep. If either gender spends enough time on the platforms, the likelihood of sleep deprivation increases.
+
+Does a specific social media platform, or collection of platforms, lead to more issues than others?
+
+We do not have specific data regarding how a single platform makes the recipient feel. Deducing the data to one recorded platform from the top 3 did not lead to enough information for a conclusion.
+The Average Total Frequency Score saw an increase of 12% from the 1-2 social media platform group to 3-5 group which is a minor increase. Which may suggest multiple platforms can lead to more of an impact on attention throughout the day when engaging in multiple platforms.
+The 1-2 Social Media Platform group also had on average an hour and a half less spent on social media than the 3-5 and 6+ platform groups.
